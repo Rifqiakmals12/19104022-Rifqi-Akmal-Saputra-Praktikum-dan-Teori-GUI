@@ -2,5 +2,5 @@
 
 | Nama GUI | Screen Shoot |
 |--|--|
-| Tampilan GUI Calendar Widget | [![qLSsN1.md.png](https://iili.io/qLSsN1.md.png)](https://freeimage.host/i/qLSsN1) [![qLSZog.md.png](https://iili.io/qLSZog.md.png)](https://freeimage.host/i/qLSZog) |
-| Tampilan GUI Style | [![qLSplR.md.png](https://iili.io/qLSplR.md.png)](https://freeimage.host/i/qLSplR) [![qLSySp.md.png](https://iili.io/qLSySp.md.png)](https://freeimage.host/i/qLSySp) |
+| Tampilan GUI Calendar Widget | [![qLSsN1.md.png](https://iili.io/qLSsN1.md.png)](https://freeimage.host/i/qLSsN1) [![qLrw9p.md.png](https://iili.io/qLrw9p.md.png)](https://freeimage.host/i/qLrw9p) |
+| Tampilan GUI Style | [![qLSplR.md.png](https://iili.io/qLSplR.md.png)](https://freeimage.host/i/qLSplR) [![qLrNAN.md.png](https://iili.io/qLrNAN.md.png)](https://freeimage.host/i/qLrNAN) |
