@@ -1,4 +1,4 @@
-# TUGAS TEORI 1 Qt5 Designer
+# Tugas GUI Teori 1 Qt5 Designer
 | NAMA | NIM | KELAS |
 |--|--|--|
 | Rifqi Akmal Saputra | 19104022 | 03 SE B |
