@@ -5,7 +5,7 @@
 
 | Nama GUI | Screen Shoot GUI 
 |--|--|
-| Calendar Widget | file:///home/rifqi/Pictures/Screenshot%20from%202021-04-12%2012-52-07.png
-| Style |  file:///home/rifqi/Pictures/Screenshot%20from%202021-04-12%2012-54-43.png![image](https://user-images.githubusercontent.com/72428679/116081692-86846300-a6d5-11eb-8523-62860550d57c.png)
+| Calendar Widget | [![BFAzSS.md.png](https://iili.io/BFAzSS.md.png)](https://freeimage.host/i/BFAzSS)
+| Style |  [![BFATH7.md.png](https://iili.io/BFATH7.md.png)](https://freeimage.host/i/BFATH7)
 
 
