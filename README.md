@@ -8,7 +8,7 @@ Aplikasi GUI sederhana yang bertujuan untuk mendata mahasiswa terdiri dari fitur
 
 ## Soal Nomer 1
 ### 1. Tampilan Menu Utama
-![image](https://user-images.githubusercontent.com/72428679/122130411-8b15fe00-ce72-11eb-8bf5-8746ff8ee586.png)
+![Bz90g9.md.jpg](https://user-images.githubusercontent.com/72428679/122130411-8b15fe00-ce72-11eb-8bf5-8746ff8ee586.png)
 ### 2. Tambah Data
 Pada bagian ini mahasiswa dapat menambahkan data berupa NIM, Nama, Jurusan dan No. Telp.
 ![image](https://user-images.githubusercontent.com/72428679/122133539-ded71600-ce77-11eb-8d75-78faff607268.png)
